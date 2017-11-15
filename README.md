@@ -57,4 +57,4 @@ Let's keep expanding this list of algorithms !
 * [zakee94](https://github.com/zakee94/)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zakee94/algorithms/blob/master/LICENSE) file for details
