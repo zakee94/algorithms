@@ -54,7 +54,7 @@ Anyone can contribute to this project as much as possible using any language of 
 Let's keep expanding this list of algorithms !
 
 ## Authors
-* [zakee94]()
+* [zakee94](https://github.com/zakee94/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE]() file for details
